@@ -87,6 +87,6 @@ Matrix v5 is crafted with attention to every pixel:
 ### ✨ Join the Matrix
 If you find this project useful, don't forget to **Star** the repository!
 
-Built with 💜 by **Antigravity AI**
+Built with 💜 by **https://t.me/masluom**
 
 </div>
